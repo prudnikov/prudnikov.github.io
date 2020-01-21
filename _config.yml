@@ -35,6 +35,7 @@ exclude:
   - Gemfile.lock
   - bin/
   - README.md
+  - INBOX.md
 
 # Social Profiles
 twitter_username:   prudnikov

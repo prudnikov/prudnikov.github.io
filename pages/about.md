@@ -7,5 +7,5 @@ permalink: '/about'
 hide: true
 ---
 
-About
+# About
 
