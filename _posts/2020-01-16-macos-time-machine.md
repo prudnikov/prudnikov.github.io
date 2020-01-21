@@ -17,9 +17,7 @@ links:
 ## Exclude unnecessary files
 Time Machine excludes a lot of files and directories you don't need to be backed up by default. There is a file that contains all those locations:
 
-```
-/System/Library/CoreServices/backupd.bundle/Contents/Resources/StdExclusions.plist
-```
+```/System/Library/CoreServices/backupd.bundle/Contents/Resources/StdExclusions.plist```
 
 Individual programs can also mark particular files to not be backed up. Typically, this includes caches and other temporary files. You can find a list of these exempt files by running the following command in the Terminal:
 
@@ -28,8 +26,8 @@ Individual programs can also mark particular files to not be backed up. Typicall
 However, you always have things that change frequently on your drive that you don't need to backup. Here is my list of exclusions. 
 
 ## What to exclude from backup?
-* ~./npm
-* ~/Downloads
-* ~/Temp
-* ~/Dropbox
+* `~./npm`
+* `~/Downloads`
+* `~/Temp`
+* `~/Dropbox`
 
