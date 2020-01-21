@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Mastering Time Machine Bakups
-description: Tips and Tricks on using macOS Time Machine backup
+description: Tips and Tricks on mastering macOS Time Machine backup
+excerpt: Tips and Tricks on mastering macOS Time Machine backup. Decrease time machine backup size. Speeding up backup. Using time machine without external drive.
+keywords: macos, time machine, tips&tricks
 date:   2020-01-16 15:16
 comments: true
 tags:
